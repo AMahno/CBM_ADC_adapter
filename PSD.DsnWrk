@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Connection_board\Connection_board.PrjPcb
+[Project2]
+ProjectPath=Addon\50ohm-diff_converter.PrjPcb
+[Project3]
+ProjectPath=HV_offset_board\HV_offset_board.PrjPcb
