@@ -6,3 +6,7 @@ ProjectPath=Connection_board\Connection_board.PrjPcb
 ProjectPath=Addon\50ohm-diff_converter.PrjPcb
 [Project3]
 ProjectPath=HV_offset_board\HV_offset_board.PrjPcb
+[Project4]
+ProjectPath=..\old_MPPC_board\Imported NA61_SiPm_V3.PrjPcb\NA61_SiPm_V3.PrjPcb
+[Project5]
+ProjectPath=MPPC_board\MPPC_board\MPPC_board.PrjPcb
