@@ -10,3 +10,5 @@ ProjectPath=HV_offset_board\HV_offset_board.PrjPcb
 ProjectPath=..\old_MPPC_board\Imported NA61_SiPm_V3.PrjPcb\NA61_SiPm_V3.PrjPcb
 [Project5]
 ProjectPath=MPPC_board\MPPC_board.PrjPcb
+[Project6]
+ProjectPath=MPPC_board\Service_board\Service_board.PrjPcb
