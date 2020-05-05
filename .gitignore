@@ -7,3 +7,8 @@ __Previews
 Project Logs for Connection_board
 HV_offset_board
 Connection_board
+*.LOG
+*.OutJob
+50ohm-diff_converter.pdf
+Buck.SchDoc
+draftsman.pdf
