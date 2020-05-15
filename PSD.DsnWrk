@@ -12,3 +12,5 @@ ProjectPath=..\old_MPPC_board\Imported NA61_SiPm_V3.PrjPcb\NA61_SiPm_V3.PrjPcb
 ProjectPath=MPPC_board\MPPC_board.PrjPcb
 [Project6]
 ProjectPath=Service_board\Service_board.PrjPcb
+[Project7]
+ProjectPath=Service_eval_board\Service_eval_board.PrjPcb
